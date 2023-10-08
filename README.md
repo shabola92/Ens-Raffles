@@ -1,6 +1,6 @@
-🎟️ ENS Lottery DApp on Arbitrum 🎟️
+🎟️ ENS Raffles DApp on Arbitrum 🎟️
 
-Welcome to the ENS Lottery DApp powered by the Arbitrum Layer 2 scaling solution. Join the excitement and get a chance to win unique Ethereum Name Service (ENS) domains!
+Welcome to the ENS Raffles DApp powered by the Arbitrum Layer 2 scaling solution. Join the excitement and get a chance to win unique Ethereum Name Service (ENS) domains!
 
 Features:
 
